@@ -1,3 +1,22 @@
+# 个人备注
+
+将外部镜像推送至个人阿里云仓库。
+
+个人公开镜像仓库为：`registry.cn-shenzhen.aliyuncs.com/bjih/`。
+
+示例如下：
+
+```
+busybox  -> registry.cn-shenzhen.aliyuncs.com/bjih/busybox
+
+gitlab/gitlab-ce:17.7.0-ce.0 -> registry.cn-shenzhen.aliyuncs.com/bjih/gitlab-ce:17.7.0-ce.0
+
+gitlab/gitlab-runner:alpine-v17.7.0 -> registry.cn-shenzhen.aliyuncs.com/bjih/gitlab-runner:alpine-v17.7.0
+
+```
+
+
+
 # Docker Images Pusher
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
