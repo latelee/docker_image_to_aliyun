@@ -1,6 +1,6 @@
 
 # 2025.1
-vuepress/vuepress
+blasteh/vuepress:v1.9.2.3
 
 # done at 2024.12
 #busybox
