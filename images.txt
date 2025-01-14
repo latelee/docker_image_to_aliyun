@@ -1,8 +1,11 @@
-busybox
 
-gitlab/gitlab-ce:17.7.0-ce.0
+# 2025.1
+vuepress/vuepress
 
-gitlab/gitlab-runner:alpine-v17.7.0
+# done at 2024.12
+#busybox
+#gitlab/gitlab-ce:17.7.0-ce.0
+#gitlab/gitlab-runner:alpine-v17.7.0
 
 #支持私库
 #支持指定架构
