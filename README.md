@@ -4,18 +4,12 @@
 
 个人公开镜像仓库为：`registry.cn-shenzhen.aliyuncs.com/bjih/`。
 
-示例如下：
+已有镜像如下：
 
-```
-busybox  -> registry.cn-shenzhen.aliyuncs.com/bjih/busybox
-
-gitlab/gitlab-ce:17.7.0-ce.0 -> registry.cn-shenzhen.aliyuncs.com/bjih/gitlab-ce:17.7.0-ce.0
-
-gitlab/gitlab-runner:alpine-v17.7.0 -> registry.cn-shenzhen.aliyuncs.com/bjih/gitlab-runner:alpine-v17.7.0
-
-```
-
-
+* blasteh/vuepress:v1.9.2.3 -> registry.cn-shenzhen.aliyuncs.com/bjih/vuepress:v1.9.2.3
+* busybox  -> registry.cn-shenzhen.aliyuncs.com/bjih/busybox
+* gitlab/gitlab-ce:17.7.0-ce.0 -> registry.cn-shenzhen.aliyuncs.com/bjih/gitlab-ce:17.7.0-ce.0
+* gitlab/gitlab-runner:alpine-v17.7.0 -> registry.cn-shenzhen.aliyuncs.com/bjih/gitlab-runner:alpine-v17.7.0
 
 # Docker Images Pusher
 
