@@ -1,6 +1,8 @@
 
 # 2025.1
-blasteh/vuepress:v1.9.2.3
+gcc:8.3.0
+
+#blasteh/vuepress:v1.9.2.3
 
 # done at 2024.12
 #busybox
