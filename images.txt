@@ -1,6 +1,10 @@
 
+2025.2.7
+i386/ubuntu:18.04
+i386/gcc:4.8
+
 # 2025.1
-gcc:8.3.0
+#gcc:8.3.0
 
 #blasteh/vuepress:v1.9.2.3
 
