@@ -1,7 +1,10 @@
 
 #2025.2.7
-i386/debian:buster
-i386/debian:wheezy
+#i386/debian:buster
+#i386/debian:wheezy
+
+i386/gcc:4.7.2
+i386/gcc:4.7
 
 #i386/ubuntu:18.04
 #i386/gcc:4.8
