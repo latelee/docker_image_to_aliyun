@@ -1,6 +1,9 @@
 
+# 2025.10.15
+redis:8.2.2
+
 # 2025.5.21
-postgres:17.5
+#postgres:17.5
 
 # 2025.5.13
 #debian:bookworm
